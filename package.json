@@ -1,6 +1,6 @@
 {
   "name": "luis-site-constructor2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple but fast website framework",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/LuisBoavida0/LuisSiteConstructor2Npm/issues"
   },
   "homepage": "https://github.com/LuisBoavida0/LuisSiteConstructor2Npm#readme",
-  "bin" : {
-    "create-lsc2-template" : "index.js"
+  "bin": {
+    "create-lsc2-template": "index.js"
   }
 }
