@@ -1,0 +1,26 @@
+{
+  "name": "luis-site-constructor2",
+  "version": "1.0.0",
+  "description": "Simple but fast website framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisBoavida0/LuisSiteConstructor2Npm.git"
+  },
+  "keywords": [
+    "framework",
+    "luissiteconstructor2"
+  ],
+  "author": "Luis Boavida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisBoavida0/LuisSiteConstructor2Npm/issues"
+  },
+  "homepage": "https://github.com/LuisBoavida0/LuisSiteConstructor2Npm#readme",
+  "bin" : {
+    "create-lsc2-template" : "index.js"
+  }
+}
